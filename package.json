@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "moviemap",
+  "main": "import-movie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allonyaron/moviemap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allonyaron/moviemap/issues"
+  },
+  "homepage": "https://github.com/allonyaron/moviemap",
+  "dependencies": {
+    "mongodb": "^1.4.31",
+    "request": "^2.53.0"
+  }
+}
